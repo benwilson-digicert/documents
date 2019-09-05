@@ -96,11 +96,11 @@ c.	Implement automated mechanisms under the control of CA or Delegated Third Par
 
 d.	Require Trusted Role personnel to follow up on alerts of possible Critical Security Events;
 
-e.	Monitor the integrity of the logging processes for application and system logs through continuous automated monitoring and alerting or through a human review to ensure that logging and log-integrity functions are effective. If a human review is utilized and the system is online, the process must be performed at least once every 31 days.
+e.	Monitor the integrity of the logging processes for application and system logs through continuous automated monitoring and alerting or through a human review to ensure that logging and log-integrity functions are effective. Alternatively, if a human review is utilized and the system is online, the process must be performed at least once every 31 days.
 
-f.	Monitor the archival and retention of logs to ensure that logs are retained for the appropriate amount of time, in accordance with the disclosed business practices and applicable legislation. Monitoring of archival and retention should be performed in the same manner as the system log integrity is monitored.
+f.	Monitor the archival and retention of logs to ensure that logs are retained for the appropriate amount of time, in accordance with the disclosed business practices and applicable legislation.
 
-g.	If continuous automated monitoring and alerting is utilized to satisfy any of the the objectives of the Network and Certificate System Security Requirements, resulting alerts must be addressed within at most seven (7) days and follow up action instigated in accordance with the CA’s incident response procedures.
+g.	If continuous automated monitoring and alerting is utilized to satisfy sections 1.h. or 3.e. of these Requirements, respond to the alert and initiate a plan of action within at most twenty-four (24) hours.
 
 # 4. VULNERABILITY DETECTION AND PATCH MANAGEMENT
 
