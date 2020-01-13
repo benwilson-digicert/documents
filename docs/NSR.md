@@ -1,4 +1,3 @@
-```
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **NETWORK AND CERTIFICATE SYSTEM SECURITY REQUIREMENTS** 
